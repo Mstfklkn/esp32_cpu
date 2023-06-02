@@ -1,1 +1,1 @@
-# esp32_cpu
+# ESP32 kullanımı ve çift CPU kullanımı.
